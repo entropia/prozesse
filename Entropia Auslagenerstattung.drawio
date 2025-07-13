@@ -1,0 +1,117 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (X11; Linux x86_64; rv:139.0) Gecko/20100101 Firefox/139.0" version="28.0.4">
+  <diagram name="Page-1" id="JV3QirfHSxH_dmC2Wvqo">
+    <mxGraphModel dx="1966" dy="1247" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="M6E789VOU25VIzZ3r75C-1" value="" style="rounded=0;html=1;jettySize=auto;orthogonalLoop=1;fontSize=11;endArrow=classic;endFill=1;endSize=8;strokeWidth=1;shadow=0;labelBackgroundColor=none;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1" source="M6E789VOU25VIzZ3r75C-2" target="M6E789VOU25VIzZ3r75C-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="M6E789VOU25VIzZ3r75C-2" value="Geldauslage durch Mitglied" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="591.25" y="390" width="210" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="M6E789VOU25VIzZ3r75C-3" value="Nein" style="rounded=0;html=1;jettySize=auto;orthogonalLoop=1;fontSize=11;endArrow=classic;endFill=1;endSize=8;strokeWidth=1;shadow=0;labelBackgroundColor=none;edgeStyle=orthogonalEdgeStyle;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="M6E789VOU25VIzZ3r75C-5" target="M6E789VOU25VIzZ3r75C-10">
+          <mxGeometry y="20" relative="1" as="geometry">
+            <mxPoint as="offset" />
+            <mxPoint x="640.0434782608695" y="750.0347826086954" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="M6E789VOU25VIzZ3r75C-4" value="Ja" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;jettySize=auto;orthogonalLoop=1;fontSize=11;endArrow=classic;endFill=1;endSize=8;strokeWidth=1;shadow=0;labelBackgroundColor=none;" edge="1" parent="1" source="M6E789VOU25VIzZ3r75C-5">
+          <mxGeometry y="10" relative="1" as="geometry">
+            <mxPoint as="offset" />
+            <mxPoint x="880" y="625" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="M6E789VOU25VIzZ3r75C-5" value="Digitale Rechnung?" style="rhombus;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=12;align=center;strokeWidth=1;spacing=6;spacingTop=-4;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="590" y="540" width="212.5" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="M6E789VOU25VIzZ3r75C-7" value="Ja" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;jettySize=auto;orthogonalLoop=1;fontSize=11;endArrow=classic;endFill=1;endSize=8;strokeWidth=1;shadow=0;labelBackgroundColor=none;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="M6E789VOU25VIzZ3r75C-10">
+          <mxGeometry x="-0.0323" y="15" relative="1" as="geometry">
+            <mxPoint as="offset" />
+            <mxPoint x="690" y="790" as="sourcePoint" />
+            <mxPoint x="880" y="895" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="M6E789VOU25VIzZ3r75C-10" value="Papierrechnung" style="rhombus;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=12;align=center;strokeWidth=1;spacing=6;spacingTop=-4;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="590" y="810" width="212.5" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="M6E789VOU25VIzZ3r75C-11" value="Nein" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="M6E789VOU25VIzZ3r75C-12">
+          <mxGeometry x="0.0053" y="23" relative="1" as="geometry">
+            <mxPoint x="696.25" y="1350" as="targetPoint" />
+            <mxPoint y="-1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="M6E789VOU25VIzZ3r75C-12" value="Kassenzettel" style="rhombus;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=12;align=center;strokeWidth=1;spacing=6;spacingTop=-4;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="590" y="1080" width="212.5" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="M6E789VOU25VIzZ3r75C-13" value="Nein" style="rounded=0;html=1;jettySize=auto;orthogonalLoop=1;fontSize=11;endArrow=classic;endFill=1;endSize=8;strokeWidth=1;shadow=0;labelBackgroundColor=none;edgeStyle=orthogonalEdgeStyle;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1">
+          <mxGeometry y="20" relative="1" as="geometry">
+            <mxPoint as="offset" />
+            <mxPoint x="695.9300000000001" y="980" as="sourcePoint" />
+            <mxPoint x="695.9300000000001" y="1080" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="M6E789VOU25VIzZ3r75C-17" value="Ja" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;jettySize=auto;orthogonalLoop=1;fontSize=11;endArrow=classic;endFill=1;endSize=8;strokeWidth=1;shadow=0;labelBackgroundColor=none;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1">
+          <mxGeometry x="0.0198" y="15" relative="1" as="geometry">
+            <mxPoint x="-2" as="offset" />
+            <mxPoint x="802.5" y="1165" as="sourcePoint" />
+            <mxPoint x="879.5" y="1165" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="M6E789VOU25VIzZ3r75C-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="M6E789VOU25VIzZ3r75C-20" target="M6E789VOU25VIzZ3r75C-25">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="M6E789VOU25VIzZ3r75C-20" value="Mitglied leitet Rechnung an&lt;br&gt;vorstand@ weiter und teilt Kontoverbindung mit" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="880" y="590" width="210" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="M6E789VOU25VIzZ3r75C-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="M6E789VOU25VIzZ3r75C-21" target="M6E789VOU25VIzZ3r75C-25">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="M6E789VOU25VIzZ3r75C-21" value="Mitglied wirft Rechnung in den Vorstandsbriefkasten, schreibt vorstand@ und teilt Kontoverbindung mit" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="880" y="860" width="210" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="M6E789VOU25VIzZ3r75C-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="M6E789VOU25VIzZ3r75C-22" target="M6E789VOU25VIzZ3r75C-25">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="M6E789VOU25VIzZ3r75C-22" value="Mitglied heftet (Büroklammer) den Kassenzettel an Belegbogen, füllt diesen aus und wirft den Bogen in den Vorstandsbriefkasten" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="880" y="1130" width="210" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="M6E789VOU25VIzZ3r75C-23" value="Mitglied meldet sich beim Vorstand" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="591.25" y="1350" width="210" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="M6E789VOU25VIzZ3r75C-24" value="Ablage von Rechnung oder Belegbogen und Erstattung an Mitglied" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="1168.75" y="1350" width="210" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="M6E789VOU25VIzZ3r75C-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="M6E789VOU25VIzZ3r75C-25" target="M6E789VOU25VIzZ3r75C-24">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="M6E789VOU25VIzZ3r75C-30" value="&lt;div&gt;Ja&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="M6E789VOU25VIzZ3r75C-27">
+          <mxGeometry x="-0.0796" relative="1" as="geometry">
+            <mxPoint x="16" y="4" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="M6E789VOU25VIzZ3r75C-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="M6E789VOU25VIzZ3r75C-25" target="M6E789VOU25VIzZ3r75C-31">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="M6E789VOU25VIzZ3r75C-34" value="&lt;div&gt;Nein&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="M6E789VOU25VIzZ3r75C-32">
+          <mxGeometry x="-0.1972" y="-1" relative="1" as="geometry">
+            <mxPoint y="-16" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="M6E789VOU25VIzZ3r75C-25" value="Rechnung oder Belegbogen vollständig?" style="rhombus;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=12;align=center;strokeWidth=1;spacing=6;spacingTop=-4;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="1167.5" y="1080" width="212.5" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="M6E789VOU25VIzZ3r75C-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="M6E789VOU25VIzZ3r75C-31" target="M6E789VOU25VIzZ3r75C-24">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1565" y="1385" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="M6E789VOU25VIzZ3r75C-31" value="Korrektur durch Vorstand oder Mitglied&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="1460" y="1130" width="210" height="70" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
